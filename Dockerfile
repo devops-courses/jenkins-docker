@@ -1,5 +1,5 @@
 FROM jenkins
-MAINTAINER ${user}
+MAINTAINER Devops Team
 USER root
 
 RUN mkdir -p /tmp/download && \
