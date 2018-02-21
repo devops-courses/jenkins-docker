@@ -1,5 +1,5 @@
 FROM jenkins
-MAINTAINER Devops Team
+MAINTAINER MANIVANNAN.C
 USER root
 
 RUN mkdir -p /tmp/download && \
